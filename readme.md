@@ -1,5 +1,3 @@
-![56644943_2369462640004308_8667567646293622784_o](https://user-images.githubusercontent.com/22402622/61155859-c9cb0d00-a513-11e9-84ee-650dd6e0f2a1.jpg)
-
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
