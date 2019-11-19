@@ -29,4 +29,4 @@ https://user-images.githubusercontent.com/22402622/69177158-35139400-0b31-11ea-9
 https://user-images.githubusercontent.com/22402622/69177209-4bb9eb00-0b31-11ea-8bbe-95bef7217c1c.png
 
 ## All Sku values
-https://user-images.githubusercontent.com/22402622/69177276-69875000-0b31-11ea-8cf8-b46e16c6b575.png
+![image](https://user-images.githubusercontent.com/22402622/69177276-69875000-0b31-11ea-8cf8-b46e16c6b575.png)
