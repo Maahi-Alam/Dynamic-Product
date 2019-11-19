@@ -9,10 +9,10 @@
 ![image](https://user-images.githubusercontent.com/22402622/69176522-0f39bf80-0b30-11ea-80af-a0d051704eb4.png)
 
 ## Category Create
-![image](https://user-images.githubusercontent.com/22402622/69176670-5de75980-0b30-11ea-8c6f-e3a168e38819.png)
+![image](https://user-images.githubusercontent.com/22402622/69176601-37c1b980-0b30-11ea-9068-447b9dbdf9c2.png)
 
 ## All Categories
-![image](https://user-images.githubusercontent.com/22402622/69176601-37c1b980-0b30-11ea-9068-447b9dbdf9c2.png)
+![image](https://user-images.githubusercontent.com/22402622/69176670-5de75980-0b30-11ea-8c6f-e3a168e38819.png)
 
 ## Category_value Create
 ![image](https://user-images.githubusercontent.com/22402622/69176804-9c7d1400-0b30-11ea-9ddc-2348992c174e.png)
